@@ -25,5 +25,6 @@ Tuto.com Desktop Application Release Repository
 
 #### Correctifs et améliorations :
 * Authentification via le navigateur
+* Nouveau logo Tuto.com
 
 
