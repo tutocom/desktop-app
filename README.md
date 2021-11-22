@@ -1,6 +1,20 @@
 # desktop-app
 Tuto.com Desktop Application Release Repository
 
+### Release v6.1.1
+
+##### Core :
+* Update Cordova 10
+
+##### Fonctionnalités :
+* Modale d'engagement parcours
+
+#### Correctifs et améliorations :
+* Mise à jour de la popin RGPD
+* Accès à la politique de confidentialité online / offline
+* Nombreux correctifs graphiques et UX
+* Kiosk mode: déplacement de la fenêtre en bas à droite à l'activation
+
 ### Release v6.0.0-beta.2
 
 #### Core :
