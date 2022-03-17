@@ -1,12 +1,23 @@
 # desktop-app
 Tuto.com Desktop Application Release Repository
 
+### Release v6.2.1
+
+#### Fonctionnalités :
+* Archivage / désarchivage des tutoriels 
+* Filtre par tutoriels archivés
+* Suppression du compte
+
+#### Correctifs :
+* Fix du téléchargement des sources de travail sur windows
+* Fix de la configuration du proxy
+
 ### Release v6.1.1
 
-##### Core :
+#### Core :
 * Update Cordova 10
 
-##### Fonctionnalités :
+#### Fonctionnalités :
 * Modale d'engagement parcours
 
 #### Correctifs et améliorations :
