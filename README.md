@@ -4,6 +4,26 @@ Tuto.com Desktop Application Release Repository
 ### Release v6.2.1
 
 #### Fonctionnalités :
+* Espace abonnement
+* Parcours:
+    * Modale de "positionnement administratif"
+    * Prise de RDV parcours
+    * Téléchargement du certificat de formation
+    * Boutons de contacts et prise de rdv mentors/référent 
+    * Workflow d'introduction au parcours / QCM
+    * Affichage de plusieurs mentors
+
+#### Correctifs :
+* Mise à jour du message de confirmation de la suppression de compte (via API)
+* Renouvellement de session perdue suite à la connexion sur un autre appareil / navigateur
+* Correctifs passage des QCM parcours
+
+#### Amélioration :
+* Redesign de l'app (harmonisation de la couleur des headers)
+
+### Release v6.2.1
+
+#### Fonctionnalités :
 * Archivage / désarchivage des tutoriels 
 * Filtre par tutoriels archivés
 * Suppression du compte
