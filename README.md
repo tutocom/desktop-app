@@ -1,7 +1,7 @@
 # desktop-app
 Tuto.com Desktop Application Release Repository
 
-### Release v6.2.1
+### Release v6.3.0
 
 #### Fonctionnalités :
 * Espace abonnement
