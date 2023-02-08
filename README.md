@@ -1,6 +1,16 @@
 # desktop-app
 Tuto.com Desktop Application Release Repository
 
+### Release v6.3.2
+
+#### Fonctionnalités :
+* Renseignement du temps passé sur le projet du parcours.
+* Gestion du blocage des QCM lorsque le parcours est terminé
+
+#### Correctifs :
+* Correctif du bouton validé qui reste bloqué sur les QCM de parcours.
+* Correctif du bouton intercom qui reste affiché lors de l'accès aux tutos et QCM
+
 ### Release v6.3.0
 
 #### Fonctionnalités :
