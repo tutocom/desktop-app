@@ -1,6 +1,17 @@
 # desktop-app
 Tuto.com Desktop Application Release Repository
 
+### Release v6.5.0
+
+#### Fonctionnalités :
+* Parcours: Affichage du bouton vers les exercices dans le module projet
+* Parcours: Affichage des informations/alertes concernant la validation des QCMs
+* Catalogue: Mise à jour des couleurs, affichage des badges promo et prix
+* Lecture video: Affichage des sous-titres sur le player tuto (online/offline) et player preview
+* 
+#### Correctifs :
+* Correctif du bouton de validation des QCM sur Desktop
+
 ### Release v6.3.2
 
 #### Fonctionnalités :
