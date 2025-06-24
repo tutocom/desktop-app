@@ -1,7 +1,7 @@
 # desktop-app
 Tuto.com Desktop Application Release Repository
 
-### Release 6.5.1 (Desktop - 24/06/2025)
+### Release 6.5.1
 
 #### Correctifs :
 * Parcours dashboard: Fix de l'affichage du message d'alerte concernant la validation des QCM
